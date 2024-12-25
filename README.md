@@ -1,2 +1,2 @@
 # Anime-Slayer
-Anime Slayer APIs
+Anime Slayer Mobile App APIs
